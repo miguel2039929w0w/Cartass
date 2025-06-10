@@ -1,23 +1,23 @@
 criaCartao(
     'Conhecimentos gerais',
-    'Quem nasceu primeiro, o ovo ou a galinha?',
-    'Um bom agrônimo diria: depende'
+    'Quem é amigo da sugeira e inimigo do sabão?',
+    'O cascão'
 )
 
 criaCartao(
     'Geografia',
-    'Qual a capital da Paris?',
-    'A capital de Paris é Diadema'
+    'Quem é dono da rua?',
+    'A  Monica'
 )
 
 criaCartao(
     'História',
-    'Qual a cor do cavalo "Branco" de Napoleão?',
-    'Só sei que não era verde'
+    'Porque a Ceboli come muito?',
+    'Porque não é pouco'
 )
 
 criaCartao(
     'Lingua inglesa',
-    'O que significa "i love you"?',
-    'Quer dizer morena em Francês'
+    'O que significa 'I love you?',
+    'O amor entre o Cascão e a sujeira'
 )
