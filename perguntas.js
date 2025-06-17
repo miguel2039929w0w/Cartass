@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'O que significa 'I love you?',
+    'O que significa I love you?',
     'O amor entre o Cascão e a sujeira'
 )
